@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.wpy": "vue",
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "*.html": "html",
+        "iostream": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}
